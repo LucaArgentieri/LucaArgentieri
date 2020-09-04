@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I'm Luca, Welcome to my profile!
 
-- I'm studying at [Mohole](https://scuola.mohole.it/web-e-digital-media/) and [Start2Impact](https://www.start2impact.it/) 
+- I'm studying at [Mohole](https://scuola.mohole.it/web-e-digital-media/)💻 and [Start2Impact](https://www.start2impact.it/)🚀 
 - 🌱 I’m currently learning React, Node and WordPress Development
 <!--
 **LucaArgentieri/LucaArgentieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
