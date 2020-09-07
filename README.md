@@ -3,7 +3,7 @@
 ##### About me :
 - I'm studying at [Mohole](https://scuola.mohole.it/web-e-digital-media/)💻 and [Start2Impact](https://www.start2impact.it/)🚀 
 - I’m currently learning React, Node and WordPress Development 🌱
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/luca-argentieri/), [Instagram](https://www.instagram.com/lucaaaaaaaaaah/)
+- How to reach me: [LinkedIn](https://www.linkedin.com/in/luca-argentieri/), [Instagram](https://www.instagram.com/lucaaaaaaaaaah/)📫
 
 <!--
 **LucaArgentieri/LucaArgentieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
