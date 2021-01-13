@@ -5,9 +5,6 @@
 - I’m currently learning React ⚛, Flutter and WordPress Development 🌱
 - How to reach me: [LinkedIn](https://www.linkedin.com/in/luca-argentieri/), [Instagram](https://www.instagram.com/lucaaaaaaaaaah/)📫
 
-
-![](https://www.codewars.com/users/LucaArgentieri/badges/large)
-
 <!--
 **LucaArgentieri/LucaArgentieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
