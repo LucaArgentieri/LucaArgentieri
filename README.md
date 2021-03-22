@@ -2,7 +2,7 @@
 ### I'm Luca, Welcome to my profile!
 ##### About me :
 - I'm studying at [Mohole](https://scuola.mohole.it/web-e-digital-media/)💻 and [Start2Impact](https://www.start2impact.it/)🚀 
-- I’m currently learning React ⚛, Flutter and WordPress Development 🌱
+- I’m currently learning React ⚛, Vue and Flutter 🌱
 - How to reach me: [LinkedIn](https://www.linkedin.com/in/luca-argentieri/), [Instagram](https://www.instagram.com/lucaaaaaaaaaah/)📫
 
 <!--
