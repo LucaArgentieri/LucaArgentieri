@@ -1,4 +1,4 @@
-### Hi there 👋
+### Ciao 👋
 ### I'm Luca, Welcome to my profile!
 ##### About me :
 - I'm studying at [Mohole](https://scuola.mohole.it/web-e-digital-media/)💻 and [Start2Impact](https://www.start2impact.it/)🚀 
