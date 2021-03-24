@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaArgentieri&show_icons=true&theme=radical)
+![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaArgentieri&show_icons=true&theme=dark)
