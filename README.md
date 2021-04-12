@@ -8,8 +8,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucaargentieri&show_icons=true&locale=en&layout=compact" alt="lucaargentieri" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucaargentieri&show_icons=true&locale=en" alt="lucaargentieri" /></p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/lucaargentieri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="https://codepen.io/lucaargentieri" height="30" width="40" /></a>
