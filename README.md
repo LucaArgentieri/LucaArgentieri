@@ -1,7 +1,6 @@
 <h1 align="center">Ciao 👋, I'm Luca</h1>
 <h3 align="center">Welcome to my profile!</h3>
-<h4> I'm studying at <a href="https://scuola.mohole.it/web-e-digital-media/">Mohole 💻<a> and <a href="https://www.start2impact.it/">Start2Impact 🚀 </a></h4>
-<h4> I’m currently learning React ⚛, Vue and Flutter 🌱 </h4>
+<h4> I'm working at <a href="https://www.display.design/">display.<a></h4>
 <h4> How to reach me: <a href="https://www.linkedin.com/in/luca-argentieri/">Linkedin</a>, <a href="https://www.instagram.com/lucaaaaaaaaaah/">Instagram</a>📫</h4>
   
 <p align="left">
