@@ -1,4 +1,4 @@
-<h1 align="center">Ciao <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"  width="50">, I'm Luca</h1>
+<h1 align="center">Ciao, I'm Luca <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"  width="50"></h1>
 <h3 align="center">Welcome to my profile!</h3>
 <h4> I'm working at <a href="https://www.display.design/">display.<a></h4>
 <h4> How to reach me: <a href="https://www.linkedin.com/in/luca-argentieri/">Linkedin</a>, <a href="https://www.instagram.com/lucaaaaaaaaaah/">Instagram</a>📫</h4>
