@@ -2,7 +2,7 @@
 
 ### I'm working at <a href="https://www.display.design/">display. <a>as front-end developer. 
 
-- I'm currently learning React with Next.js
+- I'm currently learning React with Next.js, Three.js and Shaders :P
 - How to reach me: <a href="https://www.linkedin.com/in/luca-argentieri/">Linkedin</a>, <a href="https://www.instagram.com/lucaaaaaaaaaah/">Instagram</a>📫 
   
   
