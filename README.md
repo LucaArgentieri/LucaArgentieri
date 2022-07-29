@@ -2,7 +2,7 @@
 
 ### I'm working at <a target="_blank" href="https://www.display.design/">display. <a>as front-end developer. 
 
-- I'm currently learning React with Next.js, Three.js and Shaders :P
+- I'm currently learning Jamstack Technologies, Three.js and Shaders :P
 - How to reach me: <a target="_blank" href="https://www.linkedin.com/in/luca-argentieri/">Linkedin</a>, <a target="_blank" href="https://www.instagram.com/lucaaaaaaaaaah/">Instagram</a>, <a href="https://lucaargentieri.github.io/">Website</a>
 - <a target="_blank" href="https://editor.p5js.org/LucaArgentieri/sketches">p5.js Sketches</a>
   
