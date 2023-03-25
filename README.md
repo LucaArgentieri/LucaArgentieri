@@ -1,6 +1,6 @@
 <h1>Ciao, I'm Luca <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"  width="50"></h1>
 
-### 💻 I'm working at <a target="_blank" href="https://www.display.design/">display. <a>as front-end developer. 
+### 💻 I'm working at <a target="_blank" href="https://www.display.design/">display.design <a>as front-end developer. 
  I'm currently learning Jamstack Technologies and a lot of creative stuff 📚🤖
 
 ### 📮 Contacts: 
