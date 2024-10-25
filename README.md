@@ -1,12 +1,20 @@
-<h1>Ciao!</h1>
+# Hey!
 
-### 💻 I'm working at <a target="_blank" href="https://www.display.design/">display.studio <a>as front-end developer. 
- I'm currently learning Jamstack Technologies and a lot of creative stuff 📚🤖
+Frontend developer passionate about mastering HTML, CSS, and JavaScript, I'm working at [display.studio](https://www.display.design/) exploring new libraries, frameworks and technologies.
+I'm also an open-source enthusiast, eager to contribute more and collaborate on community projects.
+
+--- 
+### 👐 OSS Projects:
+- [Vue Video Player](https://github.com/display-design-studio/vue-player)
 
 ### 🧪 Lab:
-  - <a target="_blank" href="https://editor.p5js.org/LucaArgentieri/sketches">p5.js Sketches</a>
-  - <a target="_blank" href="https://codepen.io/LucaArgentieri/collections/">CodePen Collections</a> 
+- [P5.js](https://editor.p5js.org/LucaArgentieri/sketches)
+- [Codepen](https://codepen.io/LucaArgentieri)
+- [ShaderToy](https://www.shadertoy.com/user/Lucaaaaaah)
+
+
   
 ### 📮 Contacts: 
+- <a href="https://x.com/luca_argentieri">Twitter</a>
 - <a target="_blank" href="https://www.linkedin.com/in/luca-argentieri/">Linkedin</a>
 - <a href="https://lucaargentieri.github.io/">Website</a>
