@@ -1,7 +1,6 @@
 # Hey!
 
 Frontend developer passionate about mastering HTML, CSS, and JavaScript, I'm working at [display.studio](https://www.display.design/) exploring new libraries, frameworks and technologies.
-I'm also an open-source enthusiast, eager to contribute more and collaborate on community projects.
 
 --- 
 ### 👐 OSS Projects:
