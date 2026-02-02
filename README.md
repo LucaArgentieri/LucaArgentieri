@@ -1,16 +1,14 @@
-# Hey!
+## Hi, I'm Luca 👋
 
-Frontend developer passionate about mastering HTML, CSS, and JavaScript, I'm working at [display.studio](https://www.display.design/) exploring new libraries, frameworks and technologies.
+Senior Frontend Developer & Creative Technologist.
 
---- 
-### 🧪 Lab:
-- [P5.js](https://editor.p5js.org/LucaArgentieri/sketches)
-- [Codepen](https://codepen.io/LucaArgentieri)
-- [ShaderToy](https://www.shadertoy.com/user/Lucaaaaaah)
+I build **performant, accessible and scalable ecommerce experiences**,  
+with a strong focus on **frontend architecture, DX and creative development**.
+
+### Working with: 
+**Vue / Nuxt · Sanity · Shopify · GSAP · Three.js**
 
 
-  
-### 📮 Contacts: 
-- <a href="https://x.com/luca_argentieri">Twitter</a>
-- <a target="_blank" href="https://www.linkedin.com/in/luca-argentieri/">Linkedin</a>
-- <a href="https://lucaargentieri.github.io/">Website</a>
+### Links:
+[P5.js](https://editor.p5js.org/LucaArgentieri/sketches) · [Codepen](https://codepen.io/LucaArgentieri) · [ShaderToy](https://www.shadertoy.com/user/Lucaaaaaah) · [X](https://x.com/luca_argentieri) · [LinkedIn](https://www.linkedin.com/in/luca-argentieri/) · [Website](https://lucaargentieri.github.io/
+) ·  [Notion](https://luca-argentieri.notion.site/Luca-Argentieri-2e051b46477280fc8500e59d1e758abc)
