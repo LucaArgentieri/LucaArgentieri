@@ -2,8 +2,7 @@
 
 Senior Frontend Developer & Creative Technologist.
 
-I build **performant, accessible and scalable ecommerce experiences**,  
-with a strong focus on **frontend architecture, DX and creative development**.
+I design and develop web interfaces for diverse clients, with a strong focus on performance and accessibility. I have experience with multiple libraries, frameworks, and CMS platforms, including the development of e-commerce solutions with Shopify. My work emphasizes creative coding and high-quality user experiences. I actively contribute to open-source projects and stay up to date with emerging technologies and industry trends.
 
 ### Working with: 
 **Vue / Nuxt · Sanity · Shopify · GSAP · Three.js**
