@@ -1,6 +1,6 @@
 ## Hi, I'm Luca 👋
 
-Senior Frontend Developer & Creative Technologist.
+Senior Frontend Developer
 
 I design and develop web interfaces for diverse clients, with a strong focus on performance and accessibility. I have experience with multiple libraries, frameworks, and CMS platforms, including the development of e-commerce solutions with Shopify. My work emphasizes creative coding and high-quality user experiences. I actively contribute to open-source projects and stay up to date with emerging technologies and industry trends.
 
