@@ -1,13 +1,24 @@
-## Hi, I'm Luca 👋
+## Hi, I'm Luca Argentieri 👋
 
-Senior Frontend Developer
+Product Engineer · Web Engineering · Developer Tooling · AI
 
-I design and develop web interfaces for diverse clients, with a strong focus on performance and accessibility. I have experience with multiple libraries, frameworks, and CMS platforms, including the development of e-commerce solutions with Shopify. My work emphasizes creative coding and high-quality user experiences. I actively contribute to open-source projects and stay up to date with emerging technologies and industry trends.
+I build web platforms, developer tools and AI-powered workflows.
 
-### Working with: 
-**Vue / Nuxt · Sanity · Shopify · GSAP · Three.js**
+My work sits at the intersection of frontend engineering, software architecture and creative technology. I focus on building reliable, performant and maintainable tools that improve how people build and interact with digital products.
 
+What I work on
 
-### Links:
-[P5.js](https://editor.p5js.org/LucaArgentieri/sketches) · [Codepen](https://codepen.io/LucaArgentieri) · [ShaderToy](https://www.shadertoy.com/user/Lucaaaaaah) · [X](https://x.com/luca_argentieri) · [LinkedIn](https://www.linkedin.com/in/luca-argentieri/) · [Website](https://lucaargentieri.github.io/
-) ·  [Notion](https://luca-argentieri.notion.site/Luca-Argentieri-2e051b46477280fc8500e59d1e758abc)
+- Web Engineering — Vue, Nuxt, TypeScript, Shopify, SSR, performance and accessibility.
+- Developer Tooling — Build tools, CLI, plugins, DevTools, starters and developer experience.
+- AI Engineering — LLM integrations, AI-powered workflows, agentic development and internal tools.
+- Creative Development — GSAP, Three.js, interactive experiences and creative coding.
+
+Open Source
+
+I build and maintain open-source tools, starters and integrations, with a focus on improving development workflows and making complex technologies easier to use.
+
+Find me elsewhere
+
+- "LinkedIn" (https://www.linkedin.com/in/luca-argentieri)
+- "Website" (https://lucaargentieri.github.io)
+- "GitHub" (https://github.com/LucaArgentieri)
