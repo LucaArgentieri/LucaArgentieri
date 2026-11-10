@@ -1,7 +1,5 @@
 ## Hi, I'm Luca Argentieri 👋
 
-# Luca Argentieri
-
 **Product Engineer · Web Engineering · Developer Tooling · AI**
 
 I build web platforms, developer tools and AI-powered workflows.
